@@ -1,3 +1,17 @@
+## 📚 Acerca de LectorApp
+
+LectorApp es un sistema integrado para la gestión de bibliotecas diseñado para transformar la manera en que las instituciones organizan, administran y comparten el conocimiento. Con una interfaz intuitiva y herramientas avanzadas, permite gestionar catálogos, préstamos, usuarios y reportes de manera eficiente.  
+
+Nuestra misión es fomentar el acceso a la lectura y la cultura a través de una plataforma digital innovadora, adaptable a bibliotecas escolares, académicas y comunitarias. Con LectorApp, el conocimiento está al alcance de todos.
+
+## 🖥️ Acerca del Proyecto Laravel (Backend de LectorApp) 
+
+El backend de LectorApp está desarrollado en Laravel, un framework robusto y escalable que garantiza un rendimiento óptimo, seguridad y flexibilidad. Diseñado para gestionar eficientemente bases de datos, autenticación de usuarios, control de acceso y procesamiento de solicitudes, este sistema es la columna vertebral que permite a LectorApp ofrecer una experiencia fluida e intuitiva.  
+
+Gracias a Laravel, LectorApp puede integrarse con múltiples plataformas, asegurar datos y facilitar el acceso a la información en tiempo real, permitiendo que bibliotecas de todo tipo modernicen su gestión y ofrezcan un mejor servicio a sus usuarios.  
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
